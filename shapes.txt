@@ -1,0 +1,3 @@
+Square 10 10 100
+Rectangle 50 50 80 60
+Ellipse 70 70 120 80
